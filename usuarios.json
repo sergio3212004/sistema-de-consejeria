@@ -1,0 +1,125 @@
+{
+    "docentes": {
+        "jgutierrez@unitru.edu.pe": {
+            "id": 3,
+            "nombre": "JORGE LUIS",
+            "apellidos": "GUTIERREZ GUTIERREZ",
+            "contrasena": "JORGE123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "cmquispe@unitru.edu.pe": {
+            "id": 4,
+            "nombre": "CELESTINO MEDARDO",
+            "apellidos": "QUISPE VARON",
+            "contrasena": "CELESTINO123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "emendoza@unitru.edu.pe": {
+            "id": 5,
+            "nombre": "EDWIN RAUL",
+            "apellidos": "MENDOZA TORRES",
+            "contrasena": "EDWIN123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "jrodriguez@unitru.edu.pe": {
+            "id": 6,
+            "nombre": "JOSE ANTONIO",
+            "apellidos": "RODRIGUEZ MELQUIADES",
+            "contrasena": "JOSE123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "lpedro@unitru.edu.pe": {
+            "id": 7,
+            "nombre": "LIZ SOFIA",
+            "apellidos": "RAYMUNDA PEDRO HUAMAN",
+            "contrasena": "LIZ123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "ccastillod@unitru.edu.pe": {
+            "id": 8,
+            "nombre": "CARLOS ENRIQUE",
+            "apellidos": "CASTILLO DIESTRA",
+            "contrasena": "CARLOS123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "agomez@unitru.edu.pe": {
+            "id": 9,
+            "nombre": "ANTHONY JOSE",
+            "apellidos": "GOMEZ MORALES",
+            "contrasena": "ANTHONY123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "icruz@unitru.edu.pe": {
+            "id": 10,
+            "nombre": "IRIS AUREA",
+            "apellidos": "CRUZ FLORIAN",
+            "contrasena": "IRIS123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "jcruz@unitru.edu.pe": {
+            "id": 11,
+            "nombre": "JOSE GABRIEL",
+            "apellidos": "CRUZ SILVA",
+            "contrasena": "JOSE123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "jperalta@unitru.edu.pe": {
+            "id": 12,
+            "nombre": "JOSE LUIS",
+            "apellidos": "PERALTA LUJAN",
+            "contrasena": "JOSE123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "ysifuentes@unitru.edu.pe": {
+            "id": 13,
+            "nombre": "YENNY MILAGRITOS",
+            "apellidos": "SIFUENTES DIAZ",
+            "contrasena": "YENNY123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "fpacheco@unitru.edu.pe": {
+            "id": 14,
+            "nombre": "JUAN FRANCISCO",
+            "apellidos": "PACHECO TORRES",
+            "contrasena": "JUAN123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "jsalazarc@unitru.edu.pe": {
+            "id": 15,
+            "nombre": "JUAN ORLANDO",
+            "apellidos": "SALAZAR CAMPOS",
+            "contrasena": "JUAN123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "vpolo@unitru.edu.pe": {
+            "id": 16,
+            "nombre": "VICTOR JAIME",
+            "apellidos": "POLO ROMERO",
+            "contrasena": "VICTOR123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "rguevara@unitru.edu.pe": {
+            "id": 17,
+            "nombre": "RICARDO MANUEL",
+            "apellidos": "GUEVARA RUIZ",
+            "contrasena": "RICARDO123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        }
+    },
+    "alumnos": {
+        "agavidiav@unitru.edu.pe": {
+            "id": 1,
+            "nombre": "Anthony",
+            "apellidos": "Gavidia Vargas",
+            "contrasena": "anthonygv123",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        },
+        "alumno2@unitru.edu.pe": {
+            "id": 2,
+            "nombre": "Carlos",
+            "apellidos": "Diaz",
+            "contrasena": "alumno456",
+            "foto_url": "img\/usuarios\/perfil.jpg"
+        }
+    }
+}

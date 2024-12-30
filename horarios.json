@@ -1,0 +1,19 @@
+{
+    "1": [
+        {
+            "dia": "Lunes",
+            "hora_inicio": "12:21",
+            "hora_fin": "12:34"
+        },
+        {
+            "dia": "Lunes",
+            "hora_inicio": "12:21",
+            "hora_fin": "12:34"
+        },
+        {
+            "dia": "Lunes",
+            "hora_inicio": "08:00",
+            "hora_fin": "08:20"
+        }
+    ]
+}
